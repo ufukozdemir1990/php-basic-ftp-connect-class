@@ -1,5 +1,11 @@
 <?php
-
+    /**
+     * Created by PhpStorm.
+     * User: ufukozdemir
+     * Date: 2019-01-04
+     * Time: 10:57
+     */
+    
     class FtpConnection {
 
         /*
